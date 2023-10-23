@@ -1,4 +1,4 @@
-# this is an online news mobile app for LOKAL assignment
+# this is an online news mobile app 
 
 
 /// name : balaji pillalamarri
